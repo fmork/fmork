@@ -5,6 +5,6 @@ Software architect, developer and photographer.
 Some traces online:
 
 - <https://www.fmork.net>
-- <https://www.photosbyfmork.net>
+- <https://www.photosbyfmork.com>
 - <https://instagram.com/photosbyfmork>
 - <https://www.linkedin.com/in/fmork>
