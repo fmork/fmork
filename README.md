@@ -9,4 +9,4 @@ Some traces online:
 - <https://instagram.com/photosbyfmork>
 - <https://www.linkedin.com/in/fmork>
 
-[![Photo of a roe deer](https://www.photosbyfmork.com/photos/20210116-090644-3981-360.jpg)](https://www.photosbyfmork.com/image/20210116-090644-3981)
+[![Photo of a roe deer](https://www.photosbyfmork.com/photos/20210116-090644-3981-320.jpg)](https://www.photosbyfmork.com/image/20210116-090644-3981)
